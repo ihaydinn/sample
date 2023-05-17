@@ -1,0 +1,178 @@
+{
+ "comments": [
+  {
+   "post": {
+    "ID": 304835,
+    "post_title": "Browni ",
+    "featured_image": {
+     "source": "hsdsd"
+    },
+    "author": {
+     "ID": 183,
+     "username": "hakkı",
+     "name": "hakkı",
+     "avatar": "httpsghjghj"
+    }
+   },
+   "list": [
+    {
+     "ID": 3953501,
+     "post": 304835,
+     "content": "<p>deneme5</p>\n",
+     "parent": 0,
+     "author": {
+      "ID": 1787765,
+      "username": "iso",
+      "name": "iso",
+      "avatar": "aasasas"
+     },
+     "date": "2023-05-11T13:52:21",
+     "date_gmt": "2023-05-11T10:52:21",
+     "date_human_diff": "1 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    },
+    {
+     "ID": 3953500,
+     "post": 304835,
+     "content": "<p>deneme4</p>\n",
+     "parent": 0,
+     "author": {
+      "ID": 1787765,
+      "username": "iso",
+      "name": "iso",
+      "avatar": "dfdf"
+     },
+     "date": "2023-05-11T13:52:14",
+     "date_gmt": "2023-05-11T10:52:14",
+     "date_human_diff": "1 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    },
+    {
+     "ID": 3953499,
+     "post": 304835,
+     "content": "<p>deneme3</p>\n",
+     "parent": 0,
+     "author": {
+      "ID": 1787765,
+      "username": "iso",
+      "name": "iso",
+      "avatar": "sdsdds"
+     },
+     "date": "2023-05-11T13:51:32",
+     "date_gmt": "2023-05-11T10:51:32",
+     "date_human_diff": "1 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    },
+    {
+     "ID": 3953498,
+     "post": 304835,
+     "content": "<p>deneme2</p>\n",
+     "parent": 0,
+     "author": {
+      "ID": 1787765,
+      "username": "iso",
+      "name": "iso",
+      "avatar": "https:"
+     },
+     "date": "2023-05-11T13:36:37",
+     "date_gmt": "2023-05-11T10:36:37",
+     "date_human_diff": "1 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    },
+    {
+     "ID": 3953497,
+     "post": 304835,
+     "content": "<p>deneme</p>\n",
+     "parent": 0,
+     "author": {
+      "ID": 1787765,
+      "username": "iso",
+      "name": "iso",
+      "avatar": "fdsdf"
+     },
+     "date": "2023-05-11T13:05:27",
+     "date_gmt": "2023-05-11T10:05:27",
+     "date_human_diff": "2 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    }
+   ]
+  },
+  {
+   "post": {
+    "ID": 1053,
+    "post_title": "Ispanaklı Kek Tarifi",
+    "featured_image": {
+     "source": "https"
+    },
+    "author": {
+     "ID": 183,
+     "username": "hakkı",
+     "name": "hakkı",
+     "avatar": "htt"
+    }
+   },
+   "list": [
+    {
+     "ID": 3953466,
+     "post": 1053,
+     "content": "ismail hakkı aydın",
+     "parent": 0,
+     "author": {
+      "ID": 1802615,
+      "username": "ismail",
+      "name": "ismail",
+      "avatar": "ismail"
+     },
+     "date": "2023-05-10T22:21:06",
+     "date_gmt": "2023-05-10T19:21:06",
+     "date_human_diff": "17 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    },
+    {
+     "ID": 3953496,
+     "post": 1053,
+     "content": "<p>heyy</p>\n",
+     "parent": 3953466,
+     "author": {
+      "ID": 183,
+      "username": "hakkı",
+      "name": "hakkı",
+      "avatar": "dsfdf"
+     },
+     "date": "2023-05-11T12:59:38",
+     "date_gmt": "2023-05-11T09:59:38",
+     "date_human_diff": "2 saat önce",
+     "comment_like": {
+      "is_post_author_liked": false,
+      "count": 0,
+      "is_user_liked": false
+     }
+    }
+   ]
+  }
+ ]
+}
