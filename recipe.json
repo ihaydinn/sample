@@ -3,7 +3,7 @@
         {
             "post": {
                 "ID": 224223,
-                "post_t!tle": "Ramazan P!des!nden P!zza Yapımı",
+                "post_title": "Ramazan P!des!nden P!zza Yapımı",
                 "featured_!mage": {
                     "source": ""
                 },
@@ -14,7 +14,7 @@
                     "avatar": "h"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3966075,
                     "post": 224223,
@@ -40,7 +40,7 @@
         {
             "post": {
                 "ID": 11108713,
-                "post_t!tle": "Lor Peyn!r! Nasıl Yapılır?",
+                "post_title": "Lor Peyn!r! Nasıl Yapılır?",
                 "featured_!mage": {
                     "source": ""
                 },
@@ -51,7 +51,7 @@
                     "avatar": ""
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3966074,
                     "post": 11108713,
@@ -77,7 +77,7 @@
         {
             "post": {
                 "ID": 17814,
-                "post_t!tle": "Patatesl! Çıtır Börek Tar!f! (v!deolu)",
+                "post_title": "Patatesl! Çıtır Börek Tar!f! (v!deolu)",
                 "featured_!mage": {
                     "source": "htt"
                 },
@@ -88,7 +88,7 @@
                     "avatar": "htt"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3966073,
                     "post": 17814,
@@ -155,7 +155,7 @@ p>\n",
         {
             "post": {
                 "ID": 433208,
-                "post_t!tle": "Bayatlamayan Yumuşacık Poğaça Nasıl Yapılır?",
+                "post_title": "Bayatlamayan Yumuşacık Poğaça Nasıl Yapılır?",
                 "featured_!mage": {
                     "source": "htt"
                 },
@@ -166,7 +166,7 @@ p>\n",
                     "avatar": "htt"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3966039,
                     "post": 433208,
@@ -192,7 +192,7 @@ p>\n",
         {
             "post": {
                 "ID": 560325,
-                "post_t!tle": "T!ram!su Tart Tar!f!",
+                "post_title": "T!ram!su Tart Tar!f!",
                 "featured_!mage": {
                     "source": "htg"
                 },
@@ -203,7 +203,7 @@ p>\n",
                     "avatar": "httpspg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3966030,
                     "post": 560325,
@@ -309,7 +309,7 @@ p>\n",
         {
             "post": {
                 "ID": 48611,
-                "post_t!tle": "Peyn!rl! Su Böreğ! Tar!f! V!deosu",
+                "post_title": "Peyn!rl! Su Böreğ! Tar!f! V!deosu",
                 "featured_!mage": {
                     "source": "ht"
                 },
@@ -320,7 +320,7 @@ p>\n",
                     "avatar": "htt"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965985,
                     "post": 48611,
@@ -347,7 +347,7 @@ p>\n",
         {
             "post": {
                 "ID": 25524,
-                "post_t!tle": "Sufle Tar!f!",
+                "post_title": "Sufle Tar!f!",
                 "featured_!mage": {
                     "source": "hg"
                 },
@@ -358,7 +358,7 @@ p>\n",
                     "avatar": "htmb.jpg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965970,
                     "post": 25524,
@@ -385,7 +385,7 @@ yapab!l!rm!y!m</p>\n",
         {
             "post": {
                 "ID": 24024,
-                "post_t!tle": "Tırtıl Kurab!ye Tar!f! V!deosu",
+                "post_title": "Tırtıl Kurab!ye Tar!f! V!deosu",
                 "featured_!mage": {
                     "source": "https:g"
                 },
@@ -396,7 +396,7 @@ yapab!l!rm!y!m</p>\n",
                     "avatar": "htpg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965964,
                     "post": 24024,
@@ -423,7 +423,7 @@ daha kıyır d!ye düşünüyorum</p>\n",
         {
             "post": {
                 "ID": 10245920,
-                "post_t!tle": "Pamuk Poğaça Tar!f!",
+                "post_title": "Pamuk Poğaça Tar!f!",
                 "featured_!mage": {
                     "source": "hg"
                 },
@@ -434,7 +434,7 @@ daha kıyır d!ye düşünüyorum</p>\n",
                     "avatar": "httpg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965949,
                     "post": 10245920,
@@ -461,7 +461,7 @@ yapmamız gerek!yor tam olarak poşetle mayalanmasım! laz!m</p>\n",
         {
             "post": {
                 "ID": 13698,
-                "post_t!tle": "Tarçınlı Cev!zl! Kurab!ye Tar!f!",
+                "post_title": "Tarçınlı Cev!zl! Kurab!ye Tar!f!",
                 "featured_!mage": {
                     "source": "httpspg"
                 },
@@ -472,7 +472,7 @@ yapmamız gerek!yor tam olarak poşetle mayalanmasım! laz!m</p>\n",
                     "avatar": "httg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965932,
                     "post": 13698,
@@ -501,7 +501,7 @@ p>\n",
         {
             "post": {
                 "ID": 598451,
-                "post_t!tle": "Çökertme Kebabı Tar!f!",
+                "post_title": "Çökertme Kebabı Tar!f!",
                 "featured_!mage": {
                     "source": "https://testall.nef!syt.com/wp-content/uploads/
 2015/04/16/cokertme-kebab!-tar!f!.jpg"
@@ -513,7 +513,7 @@ p>\n",
                     "avatar": "htg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965904,
                     "post": 598451,
@@ -542,7 +542,7 @@ etlerde sorun var yalan söylüyor kasaplar</p>\n",
         {
             "post": {
                 "ID": 662897,
-                "post_t!tle": "Bayatlamayan Tuzlu Kurab!ye Yapımı",
+                "post_title": "Bayatlamayan Tuzlu Kurab!ye Yapımı",
                 "featured_!mage": {
                     "source": "httpsg"
                 },
@@ -553,7 +553,7 @@ etlerde sorun var yalan söylüyor kasaplar</p>\n",
                     "avatar": "hpg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965899,
                     "post": 662897,
@@ -580,7 +580,7 @@ acaba ac!l cvp lütfen</p>\n",
         {
             "post": {
                 "ID": 199286,
-                "post_t!tle": "Zeyt!nyağlı Eng!nar Tar!f! (v!deolu)",
+                "post_title": "Zeyt!nyağlı Eng!nar Tar!f! (v!deolu)",
                 "featured_!mage": {
                     "source": "httppg"
                 },
@@ -591,7 +591,7 @@ acaba ac!l cvp lütfen</p>\n",
                     "avatar": "htpg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965887,
                     "post": 199286,
@@ -618,7 +618,7 @@ yaptığımda tar!fe göre yaptım ama eng!nar sertt! p!şmem!şt!</p>\n",
         {
             "post": {
                 "ID": 262100,
-                "post_t!tle": "3 Malzemel! Nutellalı Kurab!ye (V!deolu)",
+                "post_title": "3 Malzemel! Nutellalı Kurab!ye (V!deolu)",
                 "featured_!mage": {
                     "source": "htg"
                 },
@@ -629,7 +629,7 @@ yaptığımda tar!fe göre yaptım ama eng!nar sertt! p!şmem!şt!</p>\n",
                     "avatar": "htt"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965871,
                     "post": 262100,
@@ -656,7 +656,7 @@ mı soğuk mu dokcem?</p>\n",
         {
             "post": {
                 "ID": 304835,
-                "post_t!tle": "Brown! Tadında Islak Kek Tar!f! (v!deolu)",
+                "post_title": "Brown! Tadında Islak Kek Tar!f! (v!deolu)",
                 "featured_!mage": {
                     "source": "hg"
                 },
@@ -667,7 +667,7 @@ mı soğuk mu dokcem?</p>\n",
                     "avatar": "httppg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965869,
                     "post": 304835,
@@ -696,7 +696,7 @@ p>\n",
         {
             "post": {
                 "ID": 36451,
-                "post_t!tle": "Muhalleb!l! Kadayıf Tatlısı V!deosu",
+                "post_title": "Muhalleb!l! Kadayıf Tatlısı V!deosu",
                 "featured_!mage": {
                     "source": "htpg"
                 },
@@ -707,7 +707,7 @@ p>\n",
                     "avatar": "ht"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965854,
                     "post": 36451,
@@ -734,7 +734,7 @@ d!rek borcama döküp muhalleb!s!n! m! eklemel!y!m</p>\n",
         {
             "post": {
                 "ID": 7078847,
-                "post_t!tle": "Balon G!b! Kabaran Bazlama (v!deolu)",
+                "post_title": "Balon G!b! Kabaran Bazlama (v!deolu)",
                 "featured_!mage": {
                     "source": "httppg"
                 },
@@ -745,7 +745,7 @@ d!rek borcama döküp muhalleb!s!n! m! eklemel!y!m</p>\n",
                     "avatar": "httpsg"
                 }
             },
-            "l!st": [
+            "list": [
                 {
                     "ID": 3965848,
                     "post": 7078847,
